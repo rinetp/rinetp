@@ -1,7 +1,8 @@
 ## Hi there, I'm Rine 👋
 I joined Github to help put together some ideas 🌱 for a technology based theme week for the school I work in.
 
-###My interests###
+### My interests
+
 - Experiencing different cultures
 - Handicrafts
 - Bodypump / cycling
