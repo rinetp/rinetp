@@ -3,6 +3,7 @@ I joined Github to help put together some ideas 🌱 for a technology based them
 
 ### My interests
 
+- Overland travel
 - Experiencing different cultures
 - Handicrafts
 - Bodypump / cycling
